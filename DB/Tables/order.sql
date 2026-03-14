@@ -12,7 +12,6 @@ BEGIN
 	(
 		[orderId] ASC
 	))
-	GO
 END
 
 
